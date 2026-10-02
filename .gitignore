@@ -1,0 +1,33 @@
+# Eclipse / STS
+.metadata/
+.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# Maven / Java
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# React / Node
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
